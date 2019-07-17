@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "app using node and express to match based on a series of questions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellennewellevans/FriendFinder.git"
+  },
+  "author": "Ellen Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellennewellevans/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/ellennewellevans/FriendFinder#readme"
+}
