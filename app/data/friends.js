@@ -1,6 +1,6 @@
 var friendsArray = [
     {name: "Ellen Evans",
-    photo: "https://s-media-cache-ak0.pinimg.com/originals/a9/09/b4/a909b465a163e1c0b895b6e8843d99bc.jpg",
+    photo: "https://media.licdn.com/dms/image/C4E03AQEsi5hX-3HgFA/profile-displayphoto-shrink_200_200/0?e=1568851200&v=beta&t=VHOMTOWnyZ6U1CTu0RmruPqKodDPSlDNZIy-IaUcq9g",
     scores: [1, 3, 5, 3, 1, 1, 5, 4, 3, 2]}
 ];
 
